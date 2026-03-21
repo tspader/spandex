@@ -1,0 +1,1 @@
+{"namespace": "spader", "name": "spcc", "version": "1.0.0", "yanked": false, "source": {"url": "https://github.com/tspader/tinycc.git", "rev": "06e307464b"}, "manifest": {"url": "git@github.com:tspader/spam.git", "rev": "12268a0b80", "dir": "spcc"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}
