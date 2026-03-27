@@ -1,0 +1,1 @@
+{"namespace": "core", "name": "argparse", "version": "1.2.0", "yanked": false, "source": {"url": "https://github.com/tspader/argparse.git", "rev": "f71ed6c7b11c"}, "manifest": {"url": "git@github.com:tspader/spam.git", "rev": "ffe03f4853", "dir": "argparse"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}
