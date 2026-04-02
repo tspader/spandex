@@ -1,1 +1,2 @@
 {"namespace": "core", "name": "toolchains", "version": "0.1.0", "yanked": false, "source": {"url": "git@github.com:tspader/spam.git", "rev": "15f6270518", "dir": "toolchains"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}
+{"namespace": "core", "name": "toolchains", "version": "0.2.0", "yanked": false, "source": {"url": "git@github.com:tspader/spam.git", "rev": "9de47f9ba6", "dir": "toolchains"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}
