@@ -1,0 +1,1 @@
+{"namespace": "core", "name": "toml", "version": "1.2.1", "yanked": false, "source": {"url": "https://github.com/tspader/toml.git", "rev": "11a5889f1ff9"}, "manifest": {"url": "git@github.com:tspader/spam.git", "rev": "6d0c8a36d6", "dir": "toml"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}

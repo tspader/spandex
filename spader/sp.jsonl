@@ -1,0 +1,1 @@
+{"namespace": "spader", "name": "sp", "version": "1.8.5", "yanked": false, "source": {"url": "https://github.com/tspader/sp.git", "rev": "3b69122c52ec"}, "manifest": {"url": "git@github.com:tspader/spam.git", "rev": "6d0c8a36d6", "dir": "sp"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}
