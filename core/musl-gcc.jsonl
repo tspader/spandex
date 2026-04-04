@@ -1,1 +1,0 @@
-{"namespace": "core", "name": "musl-gcc", "version": "1.0.2", "yanked": false, "source": {"url": "git@github.com:tspader/spam.git", "rev": "d0a466a9cc", "dir": "musl-gcc"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}

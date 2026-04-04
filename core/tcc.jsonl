@@ -1,1 +1,0 @@
-{"namespace": "core", "name": "tcc", "version": "1.0.0", "yanked": false, "source": {"url": "https://github.com/TinyCC/tinycc.git", "rev": "01d1b7bc7601"}, "manifest": {"url": "git@github.com:tspader/spam.git", "rev": "12268a0b80", "dir": "tcc"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}

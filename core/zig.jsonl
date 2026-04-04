@@ -1,2 +1,0 @@
-{"namespace": "core", "name": "zig", "version": "0.15.2", "yanked": false, "source": {"url": "git@github.com:tspader/spam.git", "rev": "b1fc820219", "dir": "zig"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}
-{"namespace": "core", "name": "zig", "version": "1.0.0", "yanked": false, "source": {"url": "git@github.com:tspader/spam.git", "rev": "fc18642605", "dir": "zig"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}
