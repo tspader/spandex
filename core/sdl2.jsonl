@@ -1,0 +1,1 @@
+{"namespace":"core","name":"sdl2","version":"2.30.4","yanked":false,"source":{"url":"https://github.com/libsdl-org/SDL.git","rev":"92fe3b19c868ad062c323dde2cfc9d8b4bfdd785"},"manifest":{"url":"git@github.com:tspader/spam.git","rev":"bfa481a3ee","dir":"sdl2"},"paths":{"manifest":"spn.toml","script":"spn.c"},"targets":[{"name":"SDL2","linkages":["static"]}]}
