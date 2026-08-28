@@ -1,0 +1,1 @@
+{"namespace":"core","name":"sp","version":"3.5.0","yanked":false,"source":{"url":"https://github.com/tspader/sp.git","rev":"a6c1733125b3d664bc544c29b5887fe19e78af5c"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"76188c74337b029b780e7e32e245215361167fa8","dir":"sp"},"paths":{"manifest":"spn.toml","script":"spn.c"},"targets":[{"name":"sp","linkages":["source"]}]}
