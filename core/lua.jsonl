@@ -1,0 +1,1 @@
+{"namespace":"core","name":"lua","version":"5.4.6","yanked":false,"source":{"url":"https://github.com/lua/lua.git","rev":"6443185167c77adcc8552a3fee7edab7895db1a9"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"c7c2afc28ec2872d960d0d504a9f6c610ba68df2","dir":"lua"},"paths":{"manifest":"spn.toml","script":"spn.c"},"targets":[{"name":"lua","linkages":["static"]}]}
