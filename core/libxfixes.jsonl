@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxfixes","version":"6.0.2","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libxfixes.git","rev":"70d5b0e37f8a759f3dbc218f22954347ceed094a"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxfixes"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
