@@ -1,0 +1,1 @@
+{"namespace":"core","name":"dbus","version":"1.16.99","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/dbus/dbus.git","rev":"f64ae3cafdcf31606401171bb0e8fe3fccc761c2"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"dbus"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
