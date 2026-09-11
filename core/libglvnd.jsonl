@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libglvnd","version":"1.7.0","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/glvnd/libglvnd.git","rev":"faa23f21fc677af5792825dc30cb1ccef4bf33a6"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libglvnd"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
