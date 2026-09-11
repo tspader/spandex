@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxrandr","version":"1.5.5","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libxrandr.git","rev":"540c3ceef2be3e513b18002a858c7a9591dd749a"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxrandr"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
