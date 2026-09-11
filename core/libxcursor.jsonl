@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxcursor","version":"1.2.3","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libxcursor.git","rev":"8ae6cf61b18ecddf26f72a07bbfbd1ea9f022c36"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxcursor"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
