@@ -1,0 +1,1 @@
+{"namespace":"core","name":"pipewire","version":"1.6.8","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/pipewire/pipewire.git","rev":"b741e0c74f5436f0c925f7741140db0efd32cf4e"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"pipewire"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
