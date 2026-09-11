@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxcb","version":"1.17.0","yanked":false,"source":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxcb"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
