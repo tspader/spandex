@@ -1,0 +1,1 @@
+{"namespace":"core","name":"pulseaudio","version":"17.0.0","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git","rev":"1f020889c9aa44ea0f63d7222e8c2b62c3f45f68"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"pulseaudio"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
