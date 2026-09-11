@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxinerama","version":"1.1.6","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libxinerama.git","rev":"cc4ac9cf36fdf3815381b791e47a90b8aebc7e78"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxinerama"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
