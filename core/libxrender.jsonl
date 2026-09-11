@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxrender","version":"0.9.12","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libxrender.git","rev":"46e12ff9e8e4d3f0313a2f097df93dbfdc14f92f"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxrender"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
