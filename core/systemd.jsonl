@@ -1,0 +1,1 @@
+{"namespace":"core","name":"systemd","version":"261.3.0","yanked":false,"source":{"url":"https://github.com/systemd/systemd.git","rev":"3255daee1572366b74fe92f002a3d60ecbb27103"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"systemd"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
