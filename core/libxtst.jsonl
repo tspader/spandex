@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxtst","version":"1.2.5","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libxtst.git","rev":"abf3ff74b97c4231d2324d66318bfa1d22e44913"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxtst"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
