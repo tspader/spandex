@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxscrnsaver","version":"1.2.5","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libxscrnsaver.git","rev":"60c957ba8a727d01b376da0142aef7e18aa86fe1"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxscrnsaver"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
