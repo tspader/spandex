@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libx11","version":"1.8.13","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libx11.git","rev":"6c75545a1deb51f5903992c52af6bc35cc9bc103"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libx11"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
