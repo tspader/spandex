@@ -1,0 +1,1 @@
+{"namespace":"core","name":"libxi","version":"1.8.3","yanked":false,"source":{"url":"https://gitlab.freedesktop.org/xorg/lib/libxi.git","rev":"f00f7e9140b4707775331950dd67851e55058c40"},"manifest":{"url":"https://github.com/tspader/spam.git","rev":"83c7b1f41b4580fb01d5f58c346041612f783ae1","dir":"libxi"},"paths":{"manifest":"spn.toml","script":"spn.c"}}
