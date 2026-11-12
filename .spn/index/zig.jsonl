@@ -1,1 +1,0 @@
-{"name": "zig", "version": "0.15.2", "yanked": false, "source": {"url": "https://github.com/tspader/spam.git", "rev": "1e72778b30", "dir": "zig"}, "paths": {"manifest": "spn.toml", "script": "spn.c"}}
